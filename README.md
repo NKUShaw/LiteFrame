@@ -1,7 +1,7 @@
 # LiteFrame: Selective Frame Encoding for Efficient Micro-Video Sequential Recommendation
 
 **LiteFrame: Selective Frame Encoding for Efficient Micro-Video Sequential Recommendation**  
-Yang Xiao, Huiyuan Chen, Chao Jiang, Zinan Ling, Ruimeng Ye, Bo Hui
+
 
 ## Highlights
 

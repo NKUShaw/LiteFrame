@@ -1,6 +1,6 @@
-# LiteFrame: Selective Frame Encoding for Efficient Micro-Video Sequential Recommendation
+# LiteFrame: Semantic-Aware Resampling for Efficient Micro-Video Sequential Recommendation
 
-**LiteFrame: Selective Frame Encoding for Efficient Micro-Video Sequential Recommendation**  
+**LiteFrame: Semantic-Aware Resampling for Efficient Micro-Video Sequential Recommendation**  
 
 
 ## Highlights

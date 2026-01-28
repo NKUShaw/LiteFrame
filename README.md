@@ -1,6 +1,6 @@
-# LiteFrame: Semantic-Aware Resampling for Efficient Micro-Video Sequential Recommendation
+# LiteFrame: Semantic-Aware Resampling for Efficient Micro-Video Recommendation
 
-**LiteFrame: Semantic-Aware Resampling for Efficient Micro-Video Sequential Recommendation**  
+**LiteFrame: Semantic-Aware Resampling for Efficient Micro-Video Recommendation**  
 
 
 ## Highlights

@@ -12,13 +12,13 @@
 
 ---
 
-### Method Overview
+## Method Overview
 
-## Phase I: Offline Preprocessing
+### Phase I: Offline Preprocessing
 
 LiteFrame takes a user’s micro-video interaction sequence and represents each video by *a small set of selected frames* encoded by a pretrained visual foundation model (VFM).  
 
-## Phase II: Online Training
+### Phase II: Online Training
 
 The resulting frame embeddings are aggregated by **CVA** and fed into a sequential recommender to predict next-item interactions.
 
